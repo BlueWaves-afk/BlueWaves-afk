@@ -1,7 +1,6 @@
 <!-- Profile Header -->
-<p align="center">
-  <em>Hi there 👋🏾, welcome to my corner of the internet!</em>
-</p>
+<p align="center"><samp>Hi there 👋🏾, welcome to my corner of the internet!</samp></p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bluewaves-afk/Bluewaves-afk/output/github-contribution-grid-snake-dark.svg">
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/Bluewaves-afk/Bluewaves-afk/output/github-contribution-grid-snake.svg">
