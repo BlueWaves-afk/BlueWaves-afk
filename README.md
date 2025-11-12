@@ -2,9 +2,10 @@
 <p align="center">
   <em>Hi there 👋🏾, welcome to my corner of the internet!</em>
 </p>
-<p align="center">
-  <img src="./profile-3d-contrib/profile-green.svg" alt="3D GitHub profile contributions" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bluewaves-afk/Bluewaves-afk/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Bluewaves-afk/Bluewaves-afk/output/github-contribution-grid-snake.svg">
+</picture>
 <p align="center">
   <a href="https://www.linkedin.com/in/tom-mathew-9824b1221/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35">
