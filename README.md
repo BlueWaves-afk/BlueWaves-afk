@@ -1,9 +1,5 @@
 <div align="center">
 
-<!-- Dithered Banner -->
-<img width="1920" height="686" alt="image" src="https://github.com/user-attachments/assets/2f1a62ec-2b7d-4040-a884-be16b10a760e" />
-
-
 <!-- Cozy Welcome Quote -->
 <div style="background: #f8f9fa; padding: 20px; border-radius: 15px; border-left: 4px solid #667eea; margin: 20px 0;">
   <h3 style="margin: 0; color: #2d3748; font-style: italic;">Hi there 👋🏾, welcome to my corner of the internet!</h3>
@@ -31,7 +27,7 @@
 
 <br>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <br>
 
@@ -41,7 +37,7 @@
 <tr>
 <td width="50%" valign="top" align="center">
 
-<h3>🛡️ marketguard.ai</h3>
+<h3> marketguard.ai</h3>
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/AI/ML-FF6F61?style=flat-square" alt="AI/ML"/>
@@ -60,7 +56,7 @@ AI-powered browser extension for real-time advisor verification, scam detection,
 
 <td width="50%" valign="top" align="center">
 
-<h3>💬 ProjectWarden</h3>
+<h3> ProjectWarden</h3>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/Deep_Learning-EE4C2C?style=flat-square" alt="Deep Learning"/>
@@ -81,7 +77,7 @@ Context-aware content moderation system that analyzes and flags potentially harm
 <tr>
 <td width="50%" valign="top" align="center">
 
-<h3>🔥 FireCast.AI</h3>
+<h3> FireCast.AI</h3>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
@@ -100,7 +96,7 @@ AI-powered wildfire prediction system for forecasting and simulating forest fire
 
 <td width="50%" valign="top" align="center">
 
-<h3>👁️ VigiaWeb</h3>
+<h3> VigiaWeb</h3>
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
