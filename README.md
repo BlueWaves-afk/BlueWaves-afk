@@ -65,7 +65,7 @@
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
       <br><br>
-      Interactive web platform demonstrating VIGIA's security monitoring capabilities.
+      Interactive web platform demonstrating VIGIA road monitoring capabilities.
       <br><br>
       <a href="https://github.com/Bluewaves-afk/VigiaWeb">
         <img src="https://img.shields.io/badge/View_Project-764ba2?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
