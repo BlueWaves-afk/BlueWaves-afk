@@ -92,11 +92,8 @@
 ##  Technical Stats
 
 <div align="center">
-  <img src="https://github.com/Bluewaves-afk/Bluewaves-afk/blob/master/github-metrics.svg" width="100%" alt="Tom's Metrics">
+  <img src="https://raw.githubusercontent.com/Bluewaves-afk/Bluewaves-afk/main/github-metrics.svg" width="100%" alt="Tom's Metrics">
 </div>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bluewaves-afk&theme=tokyonight" width="97%" alt="Profile Details">
-</p>
 
 <p align="center">
   <em>Ingest. Innovate. Invent.</em><br>
