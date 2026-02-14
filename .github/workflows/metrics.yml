@@ -19,12 +19,12 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
-          plugin_languages: yes
-          plugin_languages_limit: 8
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
-          plugin_languages_sections: most-used
-          plugin_languages_indepth: yes
+          # Add these lines to fix the Achievement error
           plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
+          plugin_achievements_display: detailed  # detailed looks better for top 1% profiles
+          plugin_achievements_secrets: yes      # helps fetch specialized badges
+          plugin_achievements_limit: 10
+          # Increase timeout to prevent "Unexpected error"
+          config_padding: 0, 8 + 10%
+          retries: 3
+          retries_delay: 300
