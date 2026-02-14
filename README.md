@@ -90,12 +90,10 @@
 ---
 
 ##  Technical Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bluewaves-afk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="48%" alt="Tom's GitHub Stats">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bluewaves-afk&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" alt="Tom's Top Languages">
-</div>
 
+<div align="center">
+  <img src="https://github.com/Bluewaves-afk/Bluewaves-afk/blob/master/github-metrics.svg" width="100%" alt="Tom's Metrics">
+</div>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bluewaves-afk&theme=tokyonight" width="97%" alt="Profile Details">
 </p>
