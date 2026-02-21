@@ -51,7 +51,7 @@
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
       <img src="https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white">
-      <p>Real-time dashboard for geo-spatial hazard visualization and system health monitoring across deployed units.</p>
+      <p>Real-time dashboard for geo-spatial hazard visualization and system health monitoring across deployed units.(Won i.mobilothon 5.0 for this project.</p>
       <a href="https://github.com/Bluewaves-afk/VigiaWeb"><b>View Repo →</b></a>
     </td>
   </tr>
