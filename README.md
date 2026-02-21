@@ -90,13 +90,13 @@
 
 ---
 
-## Writing
+## Deep Dives
 
-*Engineering think pieces on Edge AI, systems design, and autonomous intelligence.*
+*Engineering think pieces on Edge AI, systems design, and autonomous intelligence @ [ridingbluewaves.hashnode.dev](https://ridingbluewaves.hashnode.dev/).*
 
 | | Article | |
 |---|---|---|
-| `01` | [Building Autonomous Intelligence on the Edge #01](https://ridingbluewaves.hashnode.dev/riding-the-blue-wave-building-autonomous-intelligence-on-the-edge-01) | [ridingbluewaves.hashnode.dev →](https://ridingbluewaves.hashnode.dev/) |
+| `01` | [Building Autonomous Intelligence on the Edge](https://ridingbluewaves.hashnode.dev/riding-the-blue-wave-building-autonomous-intelligence-on-the-edge-01)| Blog Series about my work on optimizing VIGIA for ARM.|
 
 ---
 
