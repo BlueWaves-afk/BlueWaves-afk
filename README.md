@@ -100,11 +100,6 @@
 
 ---
 
-##  Technical Stats
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Bluewaves-afk/Bluewaves-afk/main/github-metrics.svg" width="100%" alt="Tom's Metrics">
-</div>
 
 <p align="center">
   <em>Ingest. Innovate. Invent.</em><br>
