@@ -2,6 +2,7 @@
   <p align="center"><samp>Hi there 👋🏾, welcome to my corner of the internet!</samp></p>
   <p><samp>Systems Engineer | Edge AI Specialist | AI Enthusiast</samp></p>
 
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bluewaves-afk/Bluewaves-afk/output/github-contribution-grid-snake-dark.svg">
     <img alt="github contribution snake" src="https://raw.githubusercontent.com/Bluewaves-afk/Bluewaves-afk/output/github-contribution-grid-snake.svg">
@@ -86,6 +87,16 @@
     </td>
   </tr>
 </table>
+
+---
+
+## Writing
+
+*Engineering think pieces on Edge AI, systems design, and autonomous intelligence.*
+
+| | Article | |
+|---|---|---|
+| `01` | [Building Autonomous Intelligence on the Edge #01](https://ridingbluewaves.hashnode.dev/riding-the-blue-wave-building-autonomous-intelligence-on-the-edge-01) | [ridingbluewaves.hashnode.dev →](https://ridingbluewaves.hashnode.dev/) |
 
 ---
 
