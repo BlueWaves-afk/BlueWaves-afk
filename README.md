@@ -15,8 +15,8 @@
 
 ---
 
-## Vigia Ecosystem 
-*A hardware-aware perception suite for real-time road hazard detection.*
+## The Vigia Ecosystem 
+*A hardware-aware agentic system for autonomous real-time road hazard detection.*
 
 <table border="0">
   <tr>
@@ -25,16 +25,16 @@
       <img src="https://img.shields.io/badge/C%2B%2B-17-00599C?style=flat-square&logo=cplusplus&logoColor=white">
       <img src="https://img.shields.io/badge/ARM-Cortex--A72-0091BD?style=flat-square&logo=arm">
       <img src="https://img.shields.io/badge/OpenVINO-2025-7160E2?style=flat-square">
-      <p>C++17 inference pipeline optimized for ARM. Features <b>lock-free ring buffers</b> and NEON SIMD vectorization for sub-50ms latency.</p>
-      <a href="https://github.com/Bluewaves-afk/VIGIA-ARM"><b>View Repo →</b></a>
+      <p>C++17 inference pipeline optimized for ARM chips. Features KleidiAI/CV, OpenVINO optimizations.</p>
+      <a href="https://github.com/BlueWaves-afk/vigia-raspi.git"><b>View Repo →</b></a>
     </td>
     <td width="50%">
       <h3> vigia-android</h3>
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
       <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white">
       <img src="https://img.shields.io/badge/TFLite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
-      <p>Mobile SDK for real-time telemetry and hazard reporting. Implements <b>mmap</b> for high-throughput localized logging.</p>
-      <a href="https://github.com/Bluewaves-afk/vigia-android"><b>View Repo →</b></a>
+      <p>Copilot App for real-time telemetry, hazard reporting and ADAS-like driving assistance. Implements a Hybrid Multi Agentic System</p>
+      <a href="https://github.com/BlueWaves-afk/vigia-android.git"><b>View Repo →</b></a>
     </td>
   </tr>
   <tr>
@@ -43,8 +43,8 @@
       <img src="https://img.shields.io/badge/Azure-Functions-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white">
       <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white">
       <img src="https://img.shields.io/badge/Kusto-Query-00BCF2?style=flat-square">
-      <p>Cloud-native backend with <b>Confidential Ledger</b> for tamper-proof audit trails. Defined via <b>Infrastructure as Code</b>.</p>
-      <a href="#"><b>View Repo →</b></a>
+      <p>Azure based orchestrator function app, that deterministically orchestrates the VIGIA Cloud pipeline.</p>
+      <a href="https://github.com/BlueWaves-afk/vigia-functions-orchestrator.git"><b>View Repo →</b></a>
     </td>
     <td width="50%">
       <h3> VigiaWeb</h3>
@@ -75,7 +75,7 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
       <img src="https://img.shields.io/badge/Security-PQC-red?style=flat-square">
       <p>Quantum-safe email client using NIST-approved Post-Quantum Cryptography.</p>
-      <a href="#"><b>Project →</b></a>
+      <a href="https://github.com/BlueWaves-afk/Qmail.git"><b>Project →</b></a>
     </td>
     <td align="center" width="33%">
       <h3>FireCast.AI</h3>
