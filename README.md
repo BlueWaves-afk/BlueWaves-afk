@@ -1,5 +1,5 @@
 <div align="center">
-  <p align="center"><samp>Hi there 👋🏾, welcome to my corner of the internet!</samp></p>
+  <p align="center"><samp>Hi there, welcome to my corner of the internet!</samp></p>
 </div>
 
 ---
